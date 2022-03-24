@@ -1,0 +1,18 @@
+1 -COMPLETE
+When page loads
+Gint gila is res[0]
+see ONLY Giant Gila movie details including 
+
+title (id 'title' )
+append child to hold title? <p>
+runtime - id" [interpolate?] minutes
+showtime - id" [interpolate? showtime]
+tickets left v
+number of tickets = tickets_sold- capacity 
+
+2
+see menu of movie TITLES in left panel ul#films when pge loads
+you may remove hardcode HTML in li directly or using js to remove laceholder
+make get request to server/films
+
+iterate through each element ++?
