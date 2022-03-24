@@ -23,6 +23,7 @@ const apiRequest = async () => {
 
     res.forEach((e) =>{
         titleMenu.innerHTML = `${res[0].title} ${res[1].title} ${res[2].title}`
+        //write iterator
     })
 }
  apiRequest()
